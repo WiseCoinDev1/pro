@@ -1,0 +1,9 @@
+Building Illuminum
+
+See doc/readme-qt.rst for instructions on building Illuminum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Illuminum.
+
+See doc/build-*.txt for instructions on building Illuminumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Illuminum.
